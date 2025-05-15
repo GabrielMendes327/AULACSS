@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans+Deva:wght@100..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+p {
+
+    background-color: brown;
+}
+
+h1 {
+
+    color: black;
+    font-family: "Playpen Sans Deva", cursive;
+    font-size: 20px;
+    font-weight: 20px;
+}
+
+div {
+    border: 2px solid red;
+    padding: 20px;
+    margin: 50px;
+}
